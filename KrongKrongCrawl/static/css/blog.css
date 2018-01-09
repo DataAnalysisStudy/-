@@ -1,0 +1,96 @@
+h1 {
+    color: 004C97;    
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.page-header {
+    background-color: 004C97;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1{
+    
+    color: #ffffff;
+    font-size: 40pt;
+
+
+}
+
+.page-header img {
+  max-width: 5%;
+  max-height: auto;
+  margin-left: 350;
+}
+
+.page-header p {
+    color: #ffffff;
+    font-family: 'Pacifico', cursive;
+    padding-left: 270px;
+}
+
+.noticeCau h2 {
+    color: 004C97;
+    font-family: 'Nanum Gothic', sans-serif;
+    margin-left: 40px;
+    font-weight: bold;
+} 
+.noticeSocial h2 {
+    color: 004C97;
+    font-family: 'Nanum Gothic', sans-serif;
+    margin-left: 40px;
+    font-weight: bold;
+} 
+
+.noticeBis h2 {
+    color: 004C97;
+    font-family: 'Nanum Gothic', sans-serif;
+    margin-left: 40px;
+    font-weight: bold;
+} 
+
+.noticeElectric h2 {
+    color: 004C97;
+    font-family: 'Nanum Gothic', sans-serif;
+    margin-left: 40px;
+    font-weight: bold;
+} 
+
+.noticeCmpeng h2 {
+    color: 004C97;
+    font-family: 'Nanum Gothic', sans-serif;
+    margin-left: 40px;
+    font-weight: bold;
+} 
+
+
+
+.noticeCau p {
+    color: black;
+    font-family: 'Nanum Gothic', sans-serif;
+    padding-left: 40px;
+}
+
+.noticeSocial p {
+    color: black;
+    font-family: 'Nanum Gothic', sans-serif;
+    padding-left: 40px;
+}
+
+.noticeBis p {
+    color: black;
+    font-family: 'Nanum Gothic', sans-serif;
+    padding-left: 40px;
+}
+
+.noticeElectric p {
+    color: black;
+    font-family: 'Nanum Gothic', sans-serif;
+    padding-left: 40px;
+}
+
+.noticeCmpeng p {
+    color: black;
+    font-family: 'Nanum Gothic', sans-serif;
+    padding-left: 40px;
+}
